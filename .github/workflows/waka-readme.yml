@@ -1,0 +1,36 @@
+name: Waka Readme
+
+# Fills the <!--START_SECTION:waka--> ... <!--END_SECTION:waka--> block in README.md.
+# Time-of-day ("most productive") + days-of-week come from your GitHub commit history,
+# so this works WITHOUT a WakaTime account. Add a WAKATIME_API_KEY secret later if you
+# also want language / editor / coding-time stats.
+
+on:
+  workflow_dispatch:        # lets you run it manually from the Actions tab / CLI
+  schedule:
+    - cron: "30 0 * * *"    # daily at 00:30 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with commit-time stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"

@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm Ssoho 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ssoho&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Ssoho">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CA8F1&center=true&vCenter=true&width=460&lines=Backend+Developer;Java+%26+Spring+Boot+%26+MariaDB;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CA8F1&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Java+%7C+Spring+%7C+JSP;Bootcamp+grad%2C+always+learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,31 +12,19 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Backend developer working with **Java · Spring Boot · MariaDB**
-- 🌱 Currently going deeper into **distributed systems, payment/settlement domains & multi-agent tooling**
-- 🛠️ Also work across **Python (Django), JavaScript, R**
-- 🤝 Open-source contributor — e.g. [`oh-my-claudecode`](https://github.com/Ssoho/oh-my-claudecode)
+- 🌱 Entry-level **full-stack developer** — bootcamp graduate, shipping real services
+- 💻 Main stack: **Java · Spring · JSP** (server-side web)
+- 🧪 Also work with **Python (Django) · JavaScript · R**
+- 🤝 Open-source contributor — [`oh-my-claudecode`](https://github.com/Ssoho/oh-my-claudecode)
 - 📫 Reach me: **phh1621@gmail.com**
 
 ---
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,gradle,py,django,js,html,css,git,github,linux&theme=dark" alt="skills" />
+</p>
 
 ---
 
@@ -55,6 +45,15 @@
 
 ---
 
+### ⏰ When I'm Most Productive
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ssoho&style=flat-square&color=6CA8F1" alt="Profile views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" width="100%" alt="footer" />
