@@ -98,7 +98,11 @@
 ---
 
 <!-- ===================== 11. SNAKE (잔디 먹는 뱀 — 액션이 생성) ===================== -->
-<!-- SNAKE_PLACEHOLDER -->
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ssoho/Ssoho/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+</p>
 
 <!-- ===================== 12. FOOTER (방문자수 + 물결) ===================== -->
 <p align="center">
