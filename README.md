@@ -41,12 +41,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ssoho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ssoho's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssoho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ssoho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ssoho's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssoho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=django_project" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ssoho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssoho&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
