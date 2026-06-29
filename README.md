@@ -89,14 +89,6 @@
 
 ---
 
-<!-- ===================== 10. WHEN I CODE (활동 시간대 — 액션이 채움) ===================== -->
-### ⏰ When I'm Most Productive
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <!-- ===================== 11. SNAKE (잔디 먹는 뱀 — 액션이 생성) ===================== -->
 ### 🐍 Contribution Snake
 
